@@ -4,7 +4,7 @@ opc 协议采集
 
 pip install OpenOPC
 
-读取命令
+cmd 读取命令
 opc -r Random.String Random.Int4 Random.Real8
 
 python 命令
