@@ -25,3 +25,5 @@ opc.read( ['Random.Int2', 'Random.Real4', 'Random.String'] )
 
 学习网站
 http://openopc.sourceforge.net/other.html
+
+OPCClient 是客户端。
