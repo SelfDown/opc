@@ -26,4 +26,7 @@ opc.read( ['Random.Int2', 'Random.Real4', 'Random.String'] )
 学习网站
 http://openopc.sourceforge.net/other.html
 
-OPCClient 是客户端。
+OPCClient 是可视化客户端。
+
+
+opc 如果是dcom 方式读取，OpenOPC.client() 会包pythoncom 不存在，安装pypiwin32 即可，220版本
