@@ -37,6 +37,6 @@ opc -h 192.168.2.148 -P 7766 -r Read Error.Int2
 
 
 
-查看service 报错信息
+重点servicemanager.LogInfoMsg 查看service 报错信息
 
 运行 输入 eventvwr.msc 查看应用日志
