@@ -32,11 +32,11 @@ OPCClient 是可视化客户端。
 opc 如果是dcom 方式读取，OpenOPC.client() 会包pythoncom 不存在，安装pypiwin32 即可，220版本
 
 
-
+    opc控制台命令
 opc -h 192.168.2.148 -P 7766 -r Read Error.Int2
 
 
 
-重点servicemanager.LogInfoMsg 查看service 报错信息
+    重点servicemanager.LogInfoMsg 查看service 报错信息
 
 运行 输入 eventvwr.msc 查看应用日志
