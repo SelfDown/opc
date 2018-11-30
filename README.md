@@ -34,3 +34,9 @@ opc 如果是dcom 方式读取，OpenOPC.client() 会包pythoncom 不存在，�
 
 
 opc -h 192.168.2.148 -P 7766 -r Read Error.Int2
+
+
+
+查看service 报错信息
+
+运行 输入 eventvwr.msc 查看应用日志
