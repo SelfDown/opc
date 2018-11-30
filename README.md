@@ -30,3 +30,7 @@ OPCClient 是可视化客户端。
 
 
 opc 如果是dcom 方式读取，OpenOPC.client() 会包pythoncom 不存在，安装pypiwin32 即可，220版本
+
+
+
+opc -h 192.168.2.148 -P 7766 -r Read Error.Int2
