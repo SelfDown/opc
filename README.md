@@ -40,3 +40,7 @@ opc -h 192.168.2.148 -P 7766 -r Read Error.Int2
     重点servicemanager.LogInfoMsg 查看service 报错信息
 
 运行 输入 eventvwr.msc 查看应用日志
+
+
+**将一维数组，变为二维数组
+  tag_groups = [tags[i:i+size] for i in range(0, len(tags), size)]
