@@ -44,3 +44,7 @@ opc -h 192.168.2.148 -P 7766 -r Read Error.Int2
 
 **将一维数组，变为二维数组
   tag_groups = [tags[i:i+size] for i in range(0, len(tags), size)]
+  
+  opc api学习
+  
+  http://gray-box.net/daawrapper.php
